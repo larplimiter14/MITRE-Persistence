@@ -4,7 +4,7 @@ This module demonstrates how Windows services can be abused as a persistence mec
 
 ### Focus Areas
 - Service creation behavior
-- Event log artifacts (Event ID 7045)
+- Event log artifacts
 - Detection opportunities for defenders
 
 ### Defensive Notes
